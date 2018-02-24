@@ -39,7 +39,7 @@ ArrayList<TriOsc> unusedOscillators = new ArrayList<TriOsc>();
  **/
 void setup() {
   //Set up the application.
-  size(320, 240);
+  size(400, 480);
   surface.setResizable(true);
   frameRate(24);
   //Establish the view point
