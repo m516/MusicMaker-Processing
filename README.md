@@ -9,5 +9,3 @@ operating systems.
 ## Instructions
 Instructions can be found in the instructions text file under the data folder
 
-## Problems?
-Feel free to post a new issue on this Github page
