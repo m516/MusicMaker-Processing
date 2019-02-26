@@ -10,4 +10,4 @@ operating systems.
 Instructions can be found in the instructions text file under the data folder
 
 ## Problems?
-Feel free to post a new issue on this Github page or email me at mm44928@wdmcs.org
+Feel free to post a new issue on this Github page
