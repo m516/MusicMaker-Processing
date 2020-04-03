@@ -1,5 +1,7 @@
 # MusicMaker-Processing
-A piano-roll editor with playback and file management utilities. Built with Processing
+A barebones piano-roll editor with playback and file management utilities. Built with Processing
+![exampleImage](Wiki-Data/Editor-1.PNG)
+
 
 ## Running Music Maker
 The files in this repository can be opened, modified, and run on nearly any platform 
