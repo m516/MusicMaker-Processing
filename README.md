@@ -3,7 +3,7 @@ A piano-roll editor with playback and file management utilities. Built with Proc
 
 ## Running Music Maker
 The files in this repository can be opened, modified, and run on nearly any platform 
-with (Processing)[processing.org]. However, I will try to make releases for Windows and Linux
+with [Processing](processing.org). However, I will try to make releases for Windows and Linux
 operating systems.  
 
 ## Instructions
